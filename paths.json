@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-designs/:/",
-      "/content/citisignal-designs/configuration:/.helix/config.json",
-      "/content/citisignal-designs/metadata:/metadata.json",
-      "/content/citisignal-designs/configs:/configs.json",
-      "/content/citisignal-designs/configs-stage:/configs-stage.json",
-      "/content/citisignal-designs/configs-dev:/configs-dev.json",
-      "/content/citisignal-designs/redirects:/redirects.json",
-      "/content/citisignal-designs/placeholders:/placeholders.json",
-      "/content/citisignal-designs/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-designs/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/idi-insulation/:/",
+      "/content/idi-insulation/configuration:/.helix/config.json",
+      "/content/idi-insulation/metadata:/metadata.json",
+      "/content/idi-insulation/configs:/configs.json",
+      "/content/idi-insulation/configs-stage:/configs-stage.json",
+      "/content/idi-insulation/configs-dev:/configs-dev.json",
+      "/content/idi-insulation/redirects:/redirects.json",
+      "/content/idi-insulation/placeholders:/placeholders.json",
+      "/content/idi-insulation/products/recommended-products:/products/recommended-products.json",
+      "/content/idi-insulation/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/dam/idi-insulation/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-designs",
-      "/content/dam/citisignal/images/products/"
+      "/content/idi-insulation",
+      "/content/dam/idi-insulation/images/products/"
     ]
 }
