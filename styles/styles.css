@@ -14,7 +14,8 @@
 
  :root {
   /* general properties */
-  --primary-color: #8821f4;
+  / --primary-color: #8821f4;
+  --primary-color: #AB1016;
   --secondary-color: #3C1268;
   /* general borders */
   --border: none;
